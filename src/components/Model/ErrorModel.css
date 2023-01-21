@@ -1,0 +1,29 @@
+.model{
+    width: 500px;
+    height: 250px;
+    background-color: rgb(212, 209, 204);
+    margin-left: 20%;
+
+    box-shadow: 2px 2px 5px 8px rgb(212, 209, 204);
+    border-radius: 2px 2px 2px 2px;
+    /* margin-top: 200px; */
+    
+    /* opacity: -2; */
+
+}
+.model header{
+    height: 80px;
+    background-color: blue;
+    border-radius: 5px;
+  
+}
+.model button{
+    width: 100px;
+    height: 40px;
+    margin-top: 70px;
+    margin-left: 400px;
+    background: blue;
+    color: bisque;
+    border-radius: 5px;
+
+}

@@ -1,0 +1,29 @@
+.cards{
+    width: 500px;
+    height: 250px;
+    background-color: rgb(212, 209, 204);
+    margin-left: 20%;
+
+    box-shadow: 2px 2px 5px 8px rgb(212, 209, 204);
+    border-radius: 2px 2px 2px 2px;
+
+
+}
+.cards label{
+    font-size: 25px;
+    font-weight: bold;
+    /* margin-top: 200px; */
+   
+}
+.cards input{
+    width: 500px;
+}
+button{
+    width: 100px;
+    height: 40px;
+    margin-top: 100px;
+    margin-left: 400px;
+    background: blue;
+    color: bisque;
+    border-radius: 5px;
+}
